@@ -1,0 +1,32 @@
+[
+  {
+    "path": "output/seam-quilt-v2/自然纹理接边_全尺寸16位.tif",
+    "bytes": 741616498,
+    "sha256": "41b837e28567f025962478b74db1d43337e5af411b89f0040dad4371f822e0d6"
+  },
+  {
+    "path": "output/generated-clean-lines/01_新生成连续波纹线_四边周期.svg",
+    "bytes": 195221219,
+    "sha256": "489f9ca7414bd40c1fac072891a31ef78e7ccbde805c896b613317a7567776e9"
+  },
+  {
+    "path": "output/generated-clean-lines/02_纯黑白线层_全尺寸.png",
+    "bytes": 18080747,
+    "sha256": "1ceec1ffe0c6cae608fb9de1e926399a7488062993b74192368ee6df40feffae"
+  },
+  {
+    "path": "output/generated-clean-lines/02_纯黑白线层_全尺寸.tif",
+    "bytes": 16860924,
+    "sha256": "81aefa6bf9ac387ab10397b79c78dc36b17b21b0ed67ac747886872b015ecc29"
+  },
+  {
+    "path": "output/composite-review/07_底图与线层_全尺寸分层.tif",
+    "bytes": 537484236,
+    "sha256": "99b07075ad1c1950576abe942911dfa02c2e740272449c927fce9e6f0b99b81c"
+  },
+  {
+    "path": "output/composite-review/08_灰色线层_全尺寸分层_v3.tif",
+    "bytes": 288906804,
+    "sha256": "9d55d0596071200e633d0cd174776ed2d3a014185b7c1583a52d1a0ca8cefcc7"
+  }
+]

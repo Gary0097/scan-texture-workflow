@@ -1,0 +1,30 @@
+{
+  "method": "same-source donor strips and minimum-error irregular cuts; no reflection",
+  "donor_x": 9300,
+  "donor_y_in_shifted_image": 400,
+  "vertical": {
+    "left_range": [
+      110,
+      1190
+    ],
+    "right_range": [
+      4140,
+      5030
+    ]
+  },
+  "horizontal": {
+    "left_range": [
+      0,
+      990
+    ],
+    "right_range": [
+      3600,
+      4590
+    ]
+  },
+  "size": [
+    19000,
+    15000
+  ],
+  "blend_width_px": 600
+}

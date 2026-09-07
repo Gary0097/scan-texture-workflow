@@ -1,0 +1,11 @@
+input/*
+output/*
+!output/seam-quilt-v2/
+output/seam-quilt-v2/*
+!output/seam-quilt-v2/µ¥·ùÔ¤ÀÀ.png
+__pycache__/
+.venv/
+*.zip
+*.tif
+*.psd
+*.blend

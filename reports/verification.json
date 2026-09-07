@@ -1,0 +1,28 @@
+{
+  "source": "output/full-frequency-review/全尺寸去波纹底图_局部频域宽带_审核版16位.tif",
+  "size": [
+    19000,
+    15000
+  ],
+  "mode": "I;16",
+  "cloned_components": 2354,
+  "brightness_threshold_8bit": 220,
+  "remaining_pixels_ge220": 0,
+  "smoothing_sigma_px": 12,
+  "metrics": {
+    "中心": {
+      "fine_detail_rms_before": 19.213003158569336,
+      "fine_detail_rms_after": 0.35146400332450867
+    },
+    "左上": {
+      "fine_detail_rms_before": 21.356098175048828,
+      "fine_detail_rms_after": 0.36897051334381104
+    },
+    "右下": {
+      "fine_detail_rms_before": 18.269804000854492,
+      "fine_detail_rms_after": 0.36854663491249084
+    }
+  },
+  "seconds": 31.981758499983698,
+  "status": "visual_review_required_not_seamless"
+}

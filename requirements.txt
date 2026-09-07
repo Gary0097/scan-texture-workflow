@@ -1,0 +1,6 @@
+numpy==1.26.4
+scipy==1.11.3
+Pillow==12.2.0
+opencv-python==4.7.0.68
+matplotlib==3.8.0
+PyMuPDF==1.27.2.3
